@@ -15,3 +15,5 @@ pierwsza = input()
 druga = input()
 
 print(dodaj(pierwsza, druga))
+
+print("do widzenia")
